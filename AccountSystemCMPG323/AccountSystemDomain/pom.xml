@@ -15,8 +15,8 @@
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
-            <groupId>javax.persistence</groupId>
-            <artifactId>javax.persistence-api</artifactId>
+            <groupId>javax.za.ac.nwu.ac.repo.persistence</groupId>
+            <artifactId>javax.za.ac.nwu.ac.repo.persistence-api</artifactId>
             <scope>provided</scope>
         </dependency>
 

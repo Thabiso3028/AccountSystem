@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="mavenExecutorSetting">
+    <option name="defaultSettings">
+      <ExecutionSettings>
+        <option name="collapseModules">
+          <set>
+            <MavenGroupAndArtifactKey>
+              <option name="groupId" value="za.ac.nwu" />
+              <option name="artifactId" value="AccountSystemDomain" />
+            </MavenGroupAndArtifactKey>
+            <MavenGroupAndArtifactKey>
+              <option name="groupId" value="za.ac.nwu" />
+              <option name="artifactId" value="AccountSystemLogic" />
+            </MavenGroupAndArtifactKey>
+            <MavenGroupAndArtifactKey>
+              <option name="groupId" value="za.ac.nwu" />
+              <option name="artifactId" value="AccountSystemRepository" />
+            </MavenGroupAndArtifactKey>
+            <MavenGroupAndArtifactKey>
+              <option name="groupId" value="za.ac.nwu" />
+              <option name="artifactId" value="AccountSystemTranslator" />
+            </MavenGroupAndArtifactKey>
+            <MavenGroupAndArtifactKey>
+              <option name="groupId" value="za.ac.nwu" />
+              <option name="artifactId" value="AccountSystemWeb" />
+            </MavenGroupAndArtifactKey>
+            <MavenGroupAndArtifactKey>
+              <option name="groupId" value="za.ac.nwu" />
+              <option name="artifactId" value="AccountSystemWebSpringBoot" />
+            </MavenGroupAndArtifactKey>
+          </set>
+        </option>
+      </ExecutionSettings>
+    </option>
     <option name="visibleSettings">
       <set>
         <option value="PROFILES" />
